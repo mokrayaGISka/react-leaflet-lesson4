@@ -1,4 +1,4 @@
-# react-leaflet-lesson2
+# react-leaflet-lesson4
 React leaflet web application for adding markercluster layer using functional components  
 
 JS application code written using react and react-leaflet    
